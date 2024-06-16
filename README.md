@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Book Store MERN stack project
 
 ## Lessons
@@ -24,3 +25,7 @@
 - [x] Lesson 20: Make Book Card a single component
 - [x] Lesson 21: Add Book Modal
 - [x] Lesson 22: Improve User Experience (UX) with beautiful alert
+=======
+# Book-Store-Mern-Project-
+Used MERN stack to create a simple Book Store Web App
+>>>>>>> 6cbd7f0c018172b13f0d747693baa6cc25444ca4
